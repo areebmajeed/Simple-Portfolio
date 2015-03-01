@@ -1,4 +1,4 @@
-=========================================================SIMPLE PORTFOLIO PHP SCRIPT v1===========================================================
+SIMPLE PORTFOLIO PHP SCRIPT v1
 /* The script is open source, means you're free to use it anywhere without any special previliges. */
 
 
@@ -20,7 +20,7 @@ What the script comes with :
 11) Register/Login feature.
 12) and more
 
-=======================================================================================================================================================
+=============
 
 A live demo here : http://highdesigns.amoringtag.com/
 
